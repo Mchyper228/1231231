@@ -1,0 +1,11 @@
+Z:\2025-2026\2 курс\24ИС\Bakanov\fOrm1.Bakanov\fOrm1.Bakanov\bin\Debug\fOrm1.Bakanov.exe.config
+Z:\2025-2026\2 курс\24ИС\Bakanov\fOrm1.Bakanov\fOrm1.Bakanov\bin\Debug\fOrm1.Bakanov.exe
+Z:\2025-2026\2 курс\24ИС\Bakanov\fOrm1.Bakanov\fOrm1.Bakanov\bin\Debug\fOrm1.Bakanov.pdb
+Z:\2025-2026\2 курс\24ИС\Bakanov\fOrm1.Bakanov\fOrm1.Bakanov\obj\Debug\fOrm1.Bakanov.csproj.AssemblyReference.cache
+Z:\2025-2026\2 курс\24ИС\Bakanov\fOrm1.Bakanov\fOrm1.Bakanov\obj\Debug\fOrm1.Bakanov.csproj.SuggestedBindingRedirects.cache
+Z:\2025-2026\2 курс\24ИС\Bakanov\fOrm1.Bakanov\fOrm1.Bakanov\obj\Debug\fOrm1.Bakanov.Form1.resources
+Z:\2025-2026\2 курс\24ИС\Bakanov\fOrm1.Bakanov\fOrm1.Bakanov\obj\Debug\fOrm1.Bakanov.Properties.Resources.resources
+Z:\2025-2026\2 курс\24ИС\Bakanov\fOrm1.Bakanov\fOrm1.Bakanov\obj\Debug\fOrm1.Bakanov.csproj.GenerateResource.cache
+Z:\2025-2026\2 курс\24ИС\Bakanov\fOrm1.Bakanov\fOrm1.Bakanov\obj\Debug\fOrm1.Bakanov.csproj.CoreCompileInputs.cache
+Z:\2025-2026\2 курс\24ИС\Bakanov\fOrm1.Bakanov\fOrm1.Bakanov\obj\Debug\fOrm1.Bakanov.exe
+Z:\2025-2026\2 курс\24ИС\Bakanov\fOrm1.Bakanov\fOrm1.Bakanov\obj\Debug\fOrm1.Bakanov.pdb
